@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/commons-io-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/jfoenix-9.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/javax.activation-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/mysql-connector-java-8.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tech-Team-Management-System-master/lib/poi-ooxml-full-5.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
